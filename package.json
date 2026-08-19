@@ -1,0 +1,9 @@
+{
+  "name": "my-python-project",
+  "version": "1.0.0",
+  "description": "A Python project with frontend or Node tooling",
+  "private": true,
+  "scripts": {
+    "start": "python main.py"
+  }
+}
